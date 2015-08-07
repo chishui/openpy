@@ -1,0 +1,1 @@
+{"cmd": {"p": ["ps aux"], "k": ["pkill leetcode*"], "gcc": ["clang++ -g leetcode.cpp -o leet"], "gdb": ["lldb"]}}
