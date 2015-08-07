@@ -1,5 +1,5 @@
 # openpy
-Openpy is a simple command line tool using which you don't have to type every charactors for some very long commands everyday repeatedly. You can add a shortcut for a long command, next time you can call the command through this shortcut. It's much easier to remember a shorter substitude command. And there's another usage for Openpy: you could run a file directly by typing file name with wildcards and you don't have to remember its absolute path.
+Openpy is a simple command line tool using which you don't have to type every charactors for some very long commands everyday repeatedly. You can add a shortcut for a long command, next time you can call the command through this shortcut. This function is similar with "alias". It's much easier to remember a shorter substitude command. And there's another usage for Openpy: you could run a file directly by typing file name with wildcards and you don't have to remember its absolute path.
 
 # Examples
 add a shortcut for a command:
